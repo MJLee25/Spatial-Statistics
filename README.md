@@ -1,1 +1,1 @@
-# Spatial-Stat
+# Spatial Statistics
